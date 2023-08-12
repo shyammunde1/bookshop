@@ -276,7 +276,6 @@
       },
       "id": 1
     }
-    
   ],
   "users": [
     {
@@ -284,6 +283,12 @@
       "password": "$2a$10$6pleUyFHS7PmY2K8iVxWkOWrPglKL.J/LDWSHxWyM8qwKaI17eHJ6",
       "name": "shyam munde",
       "id": 1
+    },
+    {
+      "email": "ram@gmail.com",
+      "password": "$2a$10$j9zLy0ZqQeCXFb5DY9vmN..lLWTk62DuxQi4YAirTFm/Rb/sh5Ply",
+      "name": "ram",
+      "id": 2
     }
   ]
 }
